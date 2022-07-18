@@ -30,8 +30,12 @@ public class TemperaturaMedia {
 		
 		System.out.println("-----------------------------------");
 		
+	
+		
+	
 		
 		
+		 
 		
 		
 		
