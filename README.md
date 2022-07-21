@@ -1,2 +1,2 @@
 # ExerciciosJava
-Resolução dos exercícios passados na aula de Java no bootcamp #CodeGirls 2022
+Resolução de exercícios dos desafios de código dos bootcamps - CodeGirls e SpringExperience
